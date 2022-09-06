@@ -1,0 +1,3 @@
+#!/bin/bash
+uid=$(id -u -n)
+echo "Hello $uid"
