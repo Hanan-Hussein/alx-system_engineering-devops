@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -n $DECIMAL | od -A n -t x1
+printf '%x\n' $DECIMAL
