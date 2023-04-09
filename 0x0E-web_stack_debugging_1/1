@@ -1,0 +1,51 @@
+
+WARNING: apt does not have a stable CLI interface yet. Use with caution in scripts.
+
+Hit http://security.ubuntu.com trusty-security InRelease
+Ign http://archive.ubuntu.com trusty InRelease
+Hit http://archive.ubuntu.com trusty-updates InRelease
+Hit http://archive.ubuntu.com trusty-backports InRelease
+Hit http://archive.ubuntu.com trusty Release.gpg
+Hit http://archive.ubuntu.com trusty Release
+Hit http://security.ubuntu.com trusty-security/main amd64 Packages
+Hit http://security.ubuntu.com trusty-security/restricted amd64 Packages
+Hit http://archive.ubuntu.com trusty-updates/main amd64 Packages
+Hit http://security.ubuntu.com trusty-security/universe amd64 Packages
+Hit http://archive.ubuntu.com trusty-updates/restricted amd64 Packages
+Hit http://security.ubuntu.com trusty-security/multiverse amd64 Packages
+Hit http://archive.ubuntu.com trusty-updates/universe amd64 Packages
+Hit http://archive.ubuntu.com trusty-updates/multiverse amd64 Packages
+Hit http://archive.ubuntu.com trusty-backports/main amd64 Packages
+Hit http://archive.ubuntu.com trusty-backports/restricted amd64 Packages
+Hit http://archive.ubuntu.com trusty-backports/universe amd64 Packages
+Hit http://archive.ubuntu.com trusty-backports/multiverse amd64 Packages
+Hit http://archive.ubuntu.com trusty/main amd64 Packages
+Hit http://archive.ubuntu.com trusty/restricted amd64 Packages
+Hit http://archive.ubuntu.com trusty/universe amd64 Packages
+Hit http://archive.ubuntu.com trusty/multiverse amd64 Packages
+Hit https://esm.ubuntu.com trusty-infra-security InRelease
+Hit https://esm.ubuntu.com trusty-infra-updates InRelease
+Hit https://esm.ubuntu.com trusty-infra-security/main amd64 Packages
+Hit https://esm.ubuntu.com trusty-infra-updates/main amd64 Packages
+Reading package lists...
+
+WARNING: apt does not have a stable CLI interface yet. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+
+133 additional updates are available with UA Infrastructure ESM.
+To see these additional updates run: apt list --upgradable
+See https://ubuntu.com/advantage or run: sudo ua status
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+
+WARNING: apt does not have a stable CLI interface yet. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+nginx is already the newest version.
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+ * Restarting nginx nginx
+   ...done.
