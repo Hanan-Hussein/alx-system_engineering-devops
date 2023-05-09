@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""0-subs.py"""
+"""1-top_ten.py"""
 import requests
 
 def top_ten(subreddit):
