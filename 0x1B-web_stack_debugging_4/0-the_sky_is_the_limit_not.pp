@@ -1,6 +1,6 @@
-# fixes a file
-exec {'sets file limite for nginx':
-  command => 'sed -i "s/15/2000/g" /etc/default/nginx',
-  path    => '/bin/:/sbin/:/usr/bin/:/usr/sbin/',
-  onlyif  => 'test -f /etc/default/nginx'
+# Sky is the limit, let's bring that limit higher
+exec { 'file limit':
+  onlyif  => 'test -e /etc/default/nginx',
+  command => 'sed -i "5s/[0-9]\+/$( ulimit -n )/" /etc/default/nginx; service nginx restart',
+  provider => shell,
 }
