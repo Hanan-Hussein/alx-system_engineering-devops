@@ -1,7 +1,5 @@
 # Postmortem: Frontend-Backend Break in Small Website
 
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<lottie-player src="https://assets9.lottiefiles.com/private_files/lf30_3syu4mwb.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
 
 ## Issue Summary
 **Duration**: May 18, 2023, 2:30 PM - May 18, 2023, 4:00 PM (EST)  
@@ -29,4 +27,4 @@
 6. Continuous Integration and Testing: Perform regular compatibility spells to weave harmony between frontend and backend codebases, ensuring they work together seamlessly without sparking conflicts.
 
 ## Conclusion
-The frontend-backend break in the small website took users on a rollercoaster ride of frustration and
+The frontend-backend break in the small website took users on a rollercoaster ride of frustration and confusion. Through the heroic efforts of the development team, the mischievous backend service was tamed, performance anxiety was alleviated, and the data flow was restored. With enhanced monitoring, automated recovery spells, and stress-relief exercises, the website aims to prevent similar incidents in the future. The team's collaborative spirit, persistence, and magical skills ensure that users can once again enjoy a seamless frontend-backend experience without the fear of being left stranded in the virtual desert.
